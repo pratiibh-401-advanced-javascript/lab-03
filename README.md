@@ -5,7 +5,7 @@
 ### Author: Pratiibh Bassi
 
 ### Links and Resources
-* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-02/tree/Lab-02)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-03/pull/1)
 * [travis](https://www.travis-ci.com/pratiibh-401-advanced-javascript/lab-03)
 
 ### Modules
