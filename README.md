@@ -21,7 +21,7 @@
 * `npm test` - This will run he tests
   
 #### Tests
-* How do you run tests? - Run npm test and 
+* How do you run tests? - Run npm test
 
 
 
