@@ -18,7 +18,7 @@
 
 #### Running the app
 * `node edit-file.js` - This will read and write to the tests.txt file
-* `npm test` - This will run he tests
+* `npm test` - This will run the tests
   
 #### Tests
 * How do you run tests? - Run npm test and write the correct test
